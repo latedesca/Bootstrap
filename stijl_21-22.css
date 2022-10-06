@@ -1,0 +1,14 @@
+nav .nav-item:hover {
+  background-color: #ffb809;
+  font-weight: bold;
+}
+form #button:hover {
+  background-color: #0af919;
+  font-weight: bold;
+}
+footer{
+  min-height: 200px;
+}
+footer #footer{
+  text-align: right;
+}
